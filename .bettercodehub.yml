@@ -1,5 +1,7 @@
 exclude:
-- /bin/.*
-- /javadocs/.*
-- /lib/.*
-- /test/.*
+  - /bin/.*
+  - /javadocs/.*
+  - /lib/.*
+  - /test/.*
+include:
+  - /src/.*
